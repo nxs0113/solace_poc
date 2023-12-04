@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Solace.Test.Harness": {
+      "commandName": "Project",
+      "commandLineArgs": "region=nam user=testuser1 pwd=12345 tproducer=yes tconsumer=yes qproducer=yes qconsumer=yes"
+    }
+  }
+}

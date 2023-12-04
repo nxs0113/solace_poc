@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repository\\solace_poc\\Solace.Test.Native\\Solace.Test.Native.csproj": {}
+  },
+  "projects": {
+    "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\Solace.test.Harness.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\Solace.test.Harness.Common.csproj",
+        "projectName": "Solace.test.Harness.Common",
+        "projectPath": "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\Solace.test.Harness.Common.csproj",
+        "packagesPath": "C:\\Users\\91800\\.nuget\\packages\\",
+        "outputPath": "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91800\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repository\\solace_poc\\Solace.Test.Native\\Solace.Test.Native.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repository\\solace_poc\\Solace.Test.Native\\Solace.Test.Native.csproj",
+        "projectName": "Solace.Test.Native",
+        "projectPath": "C:\\repository\\solace_poc\\Solace.Test.Native\\Solace.Test.Native.csproj",
+        "packagesPath": "C:\\Users\\91800\\.nuget\\packages\\",
+        "outputPath": "C:\\repository\\solace_poc\\Solace.Test.Native\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91800\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\Solace.test.Harness.Common.csproj": {
+                "projectPath": "C:\\repository\\solace_poc\\Solace.test.Harness.Common\\Solace.test.Harness.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SolaceSystems.Solclient.Messaging": {
+              "target": "Package",
+              "version": "[10.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

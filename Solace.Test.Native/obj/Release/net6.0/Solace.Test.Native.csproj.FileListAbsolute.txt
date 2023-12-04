@@ -1,0 +1,16 @@
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Sample.txt
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Solace.Test.Native.deps.json
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Solace.Test.Native.dll
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Solace.Test.Native.pdb
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Solace.test.Harness.Common.dll
+C:\repository\Solace.Test.Native\bin\Release\net6.0\Solace.test.Harness.Common.pdb
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.csproj.AssemblyReference.cache
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.AssemblyInfoInputs.cache
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.AssemblyInfo.cs
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.csproj.CoreCompileInputs.cache
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.csproj.CopyComplete
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.dll
+C:\repository\Solace.Test.Native\obj\Release\net6.0\refint\Solace.Test.Native.dll
+C:\repository\Solace.Test.Native\obj\Release\net6.0\Solace.Test.Native.pdb
+C:\repository\Solace.Test.Native\obj\Release\net6.0\ref\Solace.Test.Native.dll

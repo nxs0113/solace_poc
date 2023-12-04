@@ -1,0 +1,192 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Solace.Test.Native/1.0.0": {
+        "dependencies": {
+          "Solace.test.Harness.Common": "1.0.0",
+          "SolaceSystems.Solclient.Messaging": "10.22.0"
+        },
+        "runtime": {
+          "Solace.Test.Native.dll": {}
+        }
+      },
+      "SolaceSystems.Solclient.Messaging/10.22.0": {
+        "runtimeTargets": {
+          "runtimes/linux-musl-x64/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "linux-musl-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/linux-x64/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/linux-x86/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "linux-x86",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/osx-x64/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "osx-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/win-x64/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "win-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/win-x86/lib/netstandard2.0/SolaceSystems.Solclient.Messaging.dll": {
+            "rid": "win-x86",
+            "assetType": "runtime",
+            "assemblyVersion": "10.22.0.0",
+            "fileVersion": "10.22.0.0"
+          },
+          "runtimes/linux-musl-x64/native/libsolclient.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libcrypto.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libsolclient.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libssl.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x86/native/libcrypto.so": {
+            "rid": "linux-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x86/native/libsolclient.so": {
+            "rid": "linux-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x86/native/libssl.so": {
+            "rid": "linux-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libcrypto.1.1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libcrypto.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libsolclient.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libssl.1.1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libssl.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libcrypto-1_1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.1.1.19"
+          },
+          "runtimes/win-x64/native/libsolclient.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.27.0.2"
+          },
+          "runtimes/win-x64/native/libssl-1_1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.1.1.19"
+          },
+          "runtimes/win-x86/native/libcrypto-1_1.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.1.1.19"
+          },
+          "runtimes/win-x86/native/libsolclient.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "7.27.0.2"
+          },
+          "runtimes/win-x86/native/libssl-1_1.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.1.1.19"
+          }
+        }
+      },
+      "System.Reactive/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.1"
+          }
+        }
+      },
+      "Solace.test.Harness.Common/1.0.0": {
+        "dependencies": {
+          "System.Reactive": "6.0.0"
+        },
+        "runtime": {
+          "Solace.test.Harness.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solace.Test.Native/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolaceSystems.Solclient.Messaging/10.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wU3VwHDyT5CquPtqKgQgVIXauL+Avqsw0W2+SPhkomtmsJt8lTRYFATUI6BqQfeUk8H+NyuCjaeVH+beJy9S7A==",
+      "path": "solacesystems.solclient.messaging/10.22.0",
+      "hashPath": "solacesystems.solclient.messaging.10.22.0.nupkg.sha512"
+    },
+    "System.Reactive/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31kfaW4ZupZzPsI5PVe77VhnvFF55qgma7KZr/E0iFTs6fmdhhG8j0mgEx620iLTey1EynOkEfnyTjtNEpJzGw==",
+      "path": "system.reactive/6.0.0",
+      "hashPath": "system.reactive.6.0.0.nupkg.sha512"
+    },
+    "Solace.test.Harness.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\repository\Solace.test.Harness.Common\bin\Release\net6.0\Sample.txt
+C:\repository\Solace.test.Harness.Common\bin\Release\net6.0\Solace.test.Harness.Common.deps.json
+C:\repository\Solace.test.Harness.Common\bin\Release\net6.0\Solace.test.Harness.Common.dll
+C:\repository\Solace.test.Harness.Common\bin\Release\net6.0\Solace.test.Harness.Common.pdb
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.csproj.AssemblyReference.cache
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.AssemblyInfoInputs.cache
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.AssemblyInfo.cs
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.csproj.CoreCompileInputs.cache
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.dll
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\refint\Solace.test.Harness.Common.dll
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\Solace.test.Harness.Common.pdb
+C:\repository\Solace.test.Harness.Common\obj\Release\net6.0\ref\Solace.test.Harness.Common.dll
